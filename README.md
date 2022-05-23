@@ -9,7 +9,7 @@ Hi There, I'm Siraee 👋 I'm a developer like most people on this platform 😄
 
 [![Twitter](https://img.shields.io/badge/Twitter-1c98eb?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SiraeeDev)
 [![Github](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siraee)
-![Discord](https://img.shields.io/badge/Discord-Siraee%232463-5662f6?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-Siraee%232463-5662f6?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 # 📌 Technologies & Tools
 ## Languages
