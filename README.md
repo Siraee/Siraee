@@ -20,6 +20,7 @@ Hi There, I'm Siraee 👋 I'm a developer like most people on this platform 😄
 [![SASS](https://img.shields.io/badge/sass-cf679a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Jinja](https://img.shields.io/badge/jinja-%23239120.svg?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/3.1.x/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Nodejs](https://img.shields.io/badge/node.js-233056.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
 [![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## Frameworks
