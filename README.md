@@ -3,7 +3,7 @@
 ---
 
 # 🤝 Welcome
-Hi There, I'm Siraee 👋 I'm a developer like most people on this platform 😄
+Hi There, I'm Siraee 👋 I'm a developer like most people on this platform 😄\
 
 ## To contact me
 
@@ -43,13 +43,20 @@ Hi There, I'm Siraee 👋 I'm a developer like most people on this platform 😄
 [![pypi](https://img.shields.io/badge/pypi-006dad?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/)
 [![npm](https://img.shields.io/badge/npm-c53635?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
+## Currently Learning
+
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![MaterialUI](https://img.shields.io/badge/material--ui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+[![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Wordpress](https://img.shields.io/badge/wordpress-00769D.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/fr/)
+
+
 ## Interests/Future Learnings
 
-[![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Tailwind](https://img.shields.io/badge/tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
 [![Netlify](https://img.shields.io/badge/netlify-273bd7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Tailwind](https://img.shields.io/badge/tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ---
 
